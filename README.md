@@ -2,7 +2,7 @@
 <h4>Data enthusiast and lifelong learner ✨</h4>
 
 <!-- Cover Photo -->
-<!--![Kamakshi's cover photo](https://raw.githubusercontent.com/kamakshii22/kamakshii22/main/kamakshi.gif)-->
+![Kamakshi's cover photo](https://raw.githubusercontent.com/kamakshii22/kamakshii22/main/mygif.gif)
 
 <!--Social Profiles-->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamakshisharma22)
@@ -14,8 +14,8 @@
 I am Kamakshi Sharma. I am skilled in data-driven strategies and creative solutions for business empowerment. Check out my <a href = 'https://drive.google.com/file/d/17Yvj9I-x7H72Z-3dCkoUVPZed5qv6Wsv/view?usp=sharing'> Resume </a>!
 
 ## About Me
-- 👨‍💻 All of my projects are available at [https://github.com/kamakshii22](https://github.com/kamakshii22)
-- 📫 You can reach me at [kamakshi22032002@gmail.com](mailto:kamakshi22032002@gmail.com)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/kamakshii22)
+- 📫 You can reach me at [Gmail](mailto:kamakshi22032002@gmail.com)
   
 ## Programming Skills 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
