@@ -11,7 +11,7 @@
 <!--[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kamakshi022)-->
 
 ## Profile
-I am Kamakshi Sharma. I am skilled in data-driven strategies and creative solutions for business empowerment. Check out my <a href = './Kamakshi_Sharma_Resume.pdf'> Resume </a>!
+I am Kamakshi Sharma. I am skilled in data-driven strategies and creative solutions for business empowerment. Check out my <a href = 'https://drive.google.com/drive/folders/1VenMujAq0ptO3rt54CsIC4j7wqonlsZp?usp=drive_link'> Resume </a>!
   
 ## Programming Skills 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
