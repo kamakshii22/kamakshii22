@@ -37,7 +37,7 @@
 -->
 
 ## Profile
-I am Kamakshi Sharma. I am skilled in data-driven strategies and creative solutions for business empowerment. Check out my <a href = 'https://drive.google.com/file/d/17Yvj9I-x7H72Z-3dCkoUVPZed5qv6Wsv/view?usp=sharing'> Resume </a>!
+I am Kamakshi Sharma. I am skilled in data-driven strategies and creative solutions for business empowerment. Check out my <a href = 'https://drive.google.com/file/d/1xvYLib3TBOzZP1GgwBRIFILbP3BWeTVq/view?usp=sharing'> Resume </a>!
 
 ## About Me
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/kamakshii22)
