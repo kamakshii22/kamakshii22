@@ -1,8 +1,11 @@
-<h3>Hello, I'm Kamakshi Sharma ✌</h3>
-<h4>Data enthusiast and lifelong learner ✨</h4>
+<h3 align="center">Hello, I'm Kamakshi Sharma</h3>
+<h4 align="center"> Data enthusiast and lifelong learner ✨</h4>
 
 <!-- Cover Photo -->
-![Kamakshi's cover photo](https://raw.githubusercontent.com/kamakshii22/kamakshii22/main/mygif.gif)
+<!--![Kamakshi's cover photo](https://raw.githubusercontent.com/kamakshii22/kamakshii22/main/mygif.gif)-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kamakshii22/kamakshii22/main/mygif.gif" alt="Kamakshi's cover photo" width="100%" height="300" />
+</p>
 
 <!--Social Profiles-->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamakshisharma22)
