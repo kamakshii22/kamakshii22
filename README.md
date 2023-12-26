@@ -1,4 +1,4 @@
-<h3 align="center">Hello, I'm Kamakshi Sharma</h3>
+<h3 align="center">Hello, I'm Kamakshi Sharma ✌</h3>
 <h4 align="center"> Data enthusiast and lifelong learner ✨</h4>
 
 <!-- Cover Photo -->
