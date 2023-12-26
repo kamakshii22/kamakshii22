@@ -1,8 +1,8 @@
 <h3>Hello, I'm Kamakshi Sharma ✌</h3>
 <h4>Data enthusiast and lifelong learner ✨</h4>
 
-<!-- Cover Photo-->
-<!--[![Kamakshi's cover photo](./kamakshi.gif)]-->
+<!-- Cover Photo -->
+![Kamakshi's cover photo](https://raw.githubusercontent.com/kamakshii22/kamakshii22/main/kamakshi.gif)
 
 <!--Social Profiles-->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamakshisharma22)
@@ -11,7 +11,7 @@
 <!--[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kamakshi022)-->
 
 ## Profile
-I am Kamakshi Sharma. I am skilled in data-driven strategies and creative solutions for business empowerment. Check out my <a href = './kamakshi_sharma_resume.pdf'> Resume</a>!
+I am Kamakshi Sharma. I am skilled in data-driven strategies and creative solutions for business empowerment. Check out my <a href = './Kamakshi_Sharma_Resume.pdf'> Resume </a>!
   
 ## Programming Skills 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
