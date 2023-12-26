@@ -1,10 +1,11 @@
-<h4 align="center">
+<h3 align="center">
   <p>
     Hello, I'm Kamakshi Sharma
   <br>
-    Data enthusiast and lifelong learner ✨
+   Data enthusiast and lifelong learner ✨
   </p>
-</h4>
+</h3>
+
 <!-- Cover Photo -->
 <!--![Kamakshi's cover photo](https://raw.githubusercontent.com/kamakshii22/kamakshii22/main/mygif.gif)-->
 <p align="center">
