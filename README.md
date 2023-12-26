@@ -1,24 +1,46 @@
-<h3 align="center">Hello, I'm Kamakshi Sharma ✌</h3>
-<h4 align="center"> Data enthusiast and lifelong learner ✨</h4>
-
+<h4 align="center">
+  <p>
+    Hello, I'm Kamakshi Sharma
+  <br>
+    Data enthusiast and lifelong learner ✨
+  </p>
+</h4>
 <!-- Cover Photo -->
 <!--![Kamakshi's cover photo](https://raw.githubusercontent.com/kamakshii22/kamakshii22/main/mygif.gif)-->
 <p align="center">
   <img src="https://raw.githubusercontent.com/kamakshii22/kamakshii22/main/mygif.gif" alt="Kamakshi's cover photo" width="100%" height="300" />
 </p>
 
+<!--<p align="center">
+  <a href="https://www.linkedin.com/in/kamakshisharma22" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://www.github.com/kamakshii22" target="blank">
+    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+  <a href="https://www.kaggle.com/kamakshi022" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge" />
+  </a>
+  <a href="https://www.hackerrank.com/kamakshi22032002" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badge" />
+  </a>
+</p>
+-->
+
 <!--Social Profiles-->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamakshisharma22)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/kamakshii22)
-<!--[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/kamakshi22032002?hr_r=1)-->
-<!--[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kamakshi022)-->
+<!--
+[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/kamakshi22032002?hr_r=1)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kamakshi022)
+-->
 
 ## Profile
 I am Kamakshi Sharma. I am skilled in data-driven strategies and creative solutions for business empowerment. Check out my <a href = 'https://drive.google.com/file/d/17Yvj9I-x7H72Z-3dCkoUVPZed5qv6Wsv/view?usp=sharing'> Resume </a>!
 
 ## About Me
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/kamakshii22)
-- 📫 You can reach me at [Gmail](mailto:kamakshi22032002@gmail.com)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/kamakshii22)
+- 📫 You can reach me via [ Email](mailto:kamakshi22032002@gmail.com)
   
 ## Programming Skills 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
