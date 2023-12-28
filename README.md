@@ -1,3 +1,6 @@
+<!--<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>-->
 <h3 align="center">
   <p>
     Hello, I'm Kamakshi Sharma
@@ -12,21 +15,24 @@
   <img src="https://raw.githubusercontent.com/kamakshii22/kamakshii22/main/mygif.gif" alt="Kamakshi's cover photo" width="100%" height="300" />
 </p>
 
-<!--<p align="center">
-  <a href="https://www.linkedin.com/in/kamakshisharma22" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+<!--Social Profiles-->
+<!-- <div align="center">
+  <a href="www.linkedin.com/in/kamakshisharma22" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://www.github.com/kamakshii22" target="blank">
-    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  <a href="https://github.com/kamakshii22" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
   </a>
-  <a href="https://www.kaggle.com/kamakshi022" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge" />
+  <a href="mailto:kamakshi22032002@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
-  <a href="https://www.hackerrank.com/kamakshi22032002" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badge" />
   </a>
-</p>
--->
+  <a href="https://www.hackerrank.com/profile/kamakshi22032002" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo" />
+  <a href="https://www.kaggle.com/kamakshi022" target="_blank">
+    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="40" alt="kaggle logo" />
+  </a>
+</div> -->
 
 <!--Social Profiles-->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamakshisharma22)
