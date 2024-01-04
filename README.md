@@ -16,29 +16,19 @@
 </p>
 
 <!--Social Profiles-->
-<!-- <div align="center">
-  <a href="www.linkedin.com/in/kamakshisharma22" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://github.com/kamakshii22" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-  </a>
-  <a href="mailto:kamakshi22032002@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
-  </a>
-  <a href="https://www.hackerrank.com/profile/kamakshi22032002" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo" />
-  <a href="https://www.kaggle.com/kamakshi022" target="_blank">
-    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="40" alt="kaggle logo" />
-  </a>
-</div> -->
+<p align="center">
+  <a href="https://linkedin.com/in/kamakshisharma22" target="blank"><img align="center" src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="kamakshisharma22" height="25" width="110" /></a>
+  <a href="https://github.com/kamakshii22" target="blank"><img align="center" src="https://camo.githubusercontent.com/e8608a6316b9d88ea49559b15837c90b1c14fb172ca6743b50150cd54f208e26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="GitHub" height="25" width="100" /></a>
+  <a href="https://www.hackerrank.com/kamakshi22032002?hr_r=1" target="blank"><img align="center" src="https://camo.githubusercontent.com/7f903912e470cb82cb5a495f7c55dbb42d84af2c4a29c5fba2103a6eda9c206e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4861636b657272616e6b2d3245433836363f7374796c653d666f722d7468652d6261646765266c6f676f3d4861636b657252616e6b266c6f676f436f6c6f723d7768697465" alt="HackerRank" height="25" width="110" /></a>
+  <a href="https://www.kaggle.com/kamakshi022" target="blank"><img align="center" src="https://camo.githubusercontent.com/74f4165a70cf43b25e5e8df17a045426ddbf698b625a7c71c0a6412daa4eb011/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6167676c652d3033356137643f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6167676c65266c6f676f436f6c6f723d7768697465" alt="Kaggle" height="25" width="100" /></a>
+</p>
 
-<!--Social Profiles-->
+<!--
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamakshisharma22)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/kamakshii22)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/kamakshi22032002?hr_r=1)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kamakshi022)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kamakshi022) 
+--> 
 
 ## Profile
 I am Kamakshi Sharma. I am skilled in data-driven strategies and creative solutions for business empowerment. Check out my <a href = 'https://drive.google.com/file/d/1xvYLib3TBOzZP1GgwBRIFILbP3BWeTVq/view?usp=sharing'> Resume </a>!
@@ -55,9 +45,11 @@ I am Kamakshi Sharma. I am skilled in data-driven strategies and creative soluti
 ![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
-## Toolset
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## Database
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+
+## Libraries
 ![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -67,6 +59,7 @@ I am Kamakshi Sharma. I am skilled in data-driven strategies and creative soluti
 ## IDE and Tools
 ![](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
 ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
