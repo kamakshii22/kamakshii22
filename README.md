@@ -10,7 +10,6 @@
 </h3>
 
 <!-- Cover Photo -->
-<!--![Kamakshi's cover photo](https://raw.githubusercontent.com/kamakshii22/kamakshii22/main/mygif.gif)-->
 <p align="center">
   <img src="https://raw.githubusercontent.com/kamakshii22/kamakshii22/main/mygif.gif" alt="Kamakshi's cover photo" width="100%" height="300" />
 </p>
@@ -45,13 +44,13 @@ I am Kamakshi Sharma. I am skilled in data-driven strategies and creative soluti
 ![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
-<!--## Database
+## Database
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) -->
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <!--## Libraries -->
 ## Toolset 
-![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<!-- ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) -->
 ![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
