@@ -14,7 +14,9 @@
 <!-- [![Rajat's cover photo](./rajat.gif)](https://rajat.dorik.io/) 
 <!-- Cover Photo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kamakshii22/kamakshii22/main/mygif.gif" alt="Kamakshi's cover photo" width="100%" height="300" />
+  <a href="https://kamakshii22.github.io/">
+    <img src="https://raw.githubusercontent.com/kamakshii22/kamakshii22/main/mygif.gif" alt="Kamakshi's cover photo" width="100%" height="300" />
+  </a>
 </p>
 
 <!--Social Profiles-->
