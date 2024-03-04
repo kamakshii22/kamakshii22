@@ -9,6 +9,9 @@
   </p>
 </h3>
 
+### Check out my Portfolio Website by clicking below:-
+<!-- Cover Photo-->
+<!-- [![Rajat's cover photo](./rajat.gif)](https://rajat.dorik.io/) 
 <!-- Cover Photo -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/kamakshii22/kamakshii22/main/mygif.gif" alt="Kamakshi's cover photo" width="100%" height="300" />
