@@ -15,7 +15,7 @@
 <!-- Cover Photo -->
 <p align="center">
   <a href="https://kamakshii22.github.io/">
-    <img src="https://raw.githubusercontent.com/kamakshii22/kamakshii22/main/mygif.gif" alt="Kamakshi's cover photo" width="100%" height="300" />
+    <img src="https://github.com/kamakshii22/kamakshii22/blob/main/Kamakshi.gif" alt="Kamakshi's cover photo" width="100%" height="400" />
   </a>
 </p>
 
