@@ -73,3 +73,5 @@ I am Kamakshi Sharma. I am skilled in data-driven strategies and creative soluti
 
 ## Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamakshii22&theme=2077)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adiitichugh&label=Profile%20views&color=0e75b6&style=flat" alt="kamakshii22" /> </p>
